@@ -11,3 +11,8 @@
 *.run.xml
 *.synctex.gz
 *.toc
+*.fls
+*.pdf
+*.pdb_latexmk
+*-blx.bib
+
